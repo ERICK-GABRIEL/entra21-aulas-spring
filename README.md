@@ -1,2 +1,1 @@
-# entra21-aulas-spring
-Aulas de Spring
+# entra21-aulas-backend-spring
